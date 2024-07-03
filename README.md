@@ -1,6 +1,6 @@
 ## Hi I am Chuyu👋
 
-I'm Chuyu Wang, a fourth-year Biomedical engineering undergraduate at BUAA. I'm passionate about AI4Science, currently diving into deep learning for PDE and the inverse problems of Medical imaging. I was an algorithm engineer intern for ML at United image in 2023. And now I am a pre-master student at Q-Lab.
+I'm Chuyu Wang, a fourth-year Biomedical engineering undergraduate at BUAA. I'm passionate about AI4Science, currently diving into deep learning for PDE and inverse problems of Medical imaging. I was an algorithm engineer intern for ML at United image in 2023. And now I am a pre-master student at Q-Lab.
 
 About me
 - 🔭 I’m currently working on USTC
