@@ -4,7 +4,8 @@ I'm Chuyu Wang, a fourth-year Biomedical engineering undergraduate at BUAA. I'm 
 
 - 🔭 I’m currently working on USTC
 - 🌱 I’m currently learning NeRF and 3DGS
-- ⚡ Hobbies:Steam, bike, cook and .. 
+- ⚡ Hobbies:Steam, bike, cook and ..
+\\
 About me
 - University of Science an Technology of China ( 2024.9-2027.9, expected ): Master of Biomedical Engineering.
 - Exchange Student at Technical University of Munich ( 2023.10 - 2024.4 ) School of Computation, Information and Technology.
