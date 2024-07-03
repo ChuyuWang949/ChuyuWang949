@@ -10,6 +10,6 @@ About me
 BackGround
 - University of Science an Technology of China ( 2024.9-2027.9, expected ): Master of Biomedical Engineering.
 - Exchange Student at Technical University of Munich ( 2023.10 - 2024.4 ) School of Computation, Information and Technology.
-- DL algorithm Engineer at United image Beijing( 2022.7 -2022.9 ) Using deep learning methods to predict cancer subtypes from pathological images.
+- Algorithm Engineer intern at United image Beijing( 2022.7 -2022.9 ) Using deep learning to predict cancer subtypes from pathological images.
 - Beihang University( 2020.9-2024.6 ): Undergraduate major in Biomedical Engineering.
 
